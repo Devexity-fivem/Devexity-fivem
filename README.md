@@ -6,15 +6,17 @@
 
 ## 🚀 About Me
 
-> *"I do stuff sometimes"* - but when I do, it's usually pretty cool! 
+> *"I do stuff sometimes"* - but when I do, it's usually pretty cool!
 
-I'm a passionate **FiveM developer** who loves creating immersive gaming experiences and building robust server frameworks. I enjoy working on coding challenges and continuously improving my programming skills.
+I'm a passionate **FiveM developer** building immersive server experiences, shipping public resources, and constantly sharpening my scripting toolkit.
 
-- 🎮 **Specializing in**: FiveM server development and scripting
-- 🔧 **Working with**: Lua scripting and server optimization
-- 🌱 **Currently learning**: Advanced programming patterns and best practices
-- 💡 **Fun fact**: I believe the best code is written at 3 AM with coffee ☕
+- 🎮 **Specializing in**: FiveM resource creation and gameplay systems
+- 🔧 **Working with**: Lua first, but not afraid to jump into JS, HTML/CSS, or C#
+- 🌱 **Currently learning**: Better architecture patterns for large FiveM servers
+- 💡 **Fun fact**: The best ideas arrive somewhere between 3 AM and the next espresso ☕
 - 📍 **Timezone**: UTC-6 (Central Time)
+
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -52,16 +54,20 @@ I'm a passionate **FiveM developer** who loves creating immersive gaming experie
 
 <div align="center">
 
-[![Exorcism](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=Exorcism&theme=tokyonight)](https://github.com/Devexity-fivem/Exorcism)
+[![Devexity-Carry](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=Devexity-Carry&theme=tokyonight)](https://github.com/Devexity-fivem/Devexity-Carry)
+[![cb-unionheist](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=cb-unionheist&theme=tokyonight)](https://github.com/Devexity-fivem/cb-unionheist)
+[![qbx_drugs](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=qbx_drugs&theme=tokyonight)](https://github.com/Devexity-fivem/qbx_drugs)
 
 </div>
 
 ### 📚 Current Focus
 
-**Coding Practice & Learning:**
-- 🧠 **Exorcism** - Working through coding exercises and challenges to improve programming skills
-- 💡 Exploring different programming paradigms and problem-solving approaches
-- 🎯 Building a strong foundation in software development principles
+- 🧠 **Learning loops** through `Exorcism` challenges to keep fundamentals sharp
+- 🧪 **Gameplay systems** like carry, headbag, and vehicle failure mechanics
+- 🔐 **Server balance** passes on Qbox-based drug and police frameworks
+- ⚙️ **Optimization** for inventory, heist, and QoL utilities across active servers
+
+|
 
 ## 🏆 Achievements & Contributions
 
