@@ -1,23 +1,56 @@
-# 🚀 Devexity | FiveM Developer
+# 🚀 Devexity | FiveM Developer (QBCore / Qbox)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=FiveM+Scripting+Enthusiast;Lua+Developer;RP+Server+Builder;Open+Source+Contributor!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00D9FF&center=true&vCenter=true&width=520&lines=QBCore+%26+Qbox+Focused;Gameplay+Systems+Builder;Performance+%26+QoL+Tweaker;Always+Shipping+New+Scripts" alt="Typing banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Building+Immersive+FiveM+Experiences;Crafting+Gameplay+Mechanics;Optimizing+Server+Performance!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=F7DF1E&center=true&vCenter=true&width=520&lines=Heists%2C+Carry%2C+Fuel%2C+Police%2C+QoL;Lua+First,+JS%2FTS+When+Needed;Server+Balance+%26+Optimization" alt="Typing SVG" />
 </div>
 
-## 🎯 About Me
+## 🎯 Who I Am (quick snapshot)
+- **Role**: FiveM developer focused on QBCore/Qbox ecosystems
+- **Superpower**: Shipping gameplay mechanics that feel great and stay performant
+- **Current timezone**: UTC-6
+- **Learning**: Better architecture patterns for large RP servers
 
-Hey there! 👋 I'm **Devexity**, a dedicated FiveM developer passionate about creating engaging roleplay experiences and innovative gameplay mechanics. I focus on building high-quality scripts that enhance server immersion and player enjoyment.
+## 🧭 What I’m building right now
+- **cb-unionheist** – Union Depository heist flow with RP-friendly steps
+- **Devexity-Carry** – Lightweight carry with QoL safeguards for RP servers
+- **ox_fuel** (fork) – Tweaking OX fuel for smoother integration with ox_inventory
+- **qbx_drugs / qbx_police** (forks) – Balance passes and polish on core Qbox gameplay systems
 
-### 🎮 What I Do
-- **FiveM Resource Development**: Creating custom scripts for RP servers
-- **Gameplay Systems**: Implementing unique mechanics like carrying, heists, and interactions
-- **Framework Integration**: Specializing in QBCore and Qbox frameworks
-- **Server Optimization**: Improving performance and user experience
-- **Community Contributions**: Forking, improving, and sharing FiveM resources
+## ✨ Highlights (built & maintained)
+- **Gameplay systems**: carry, strip club interactions, blips, repair command
+- **Framework tuning**: QBCore/Qbox integrations, OX ecosystem resources
+- **Ops helpers**: database backup tooling, offsets finder, vehicle failure tweaks
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Primary Languages
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### FiveM Ecosystem
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white)
+![QBCore](https://img.shields.io/badge/QBCore-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzMzMzMzMyIvPgo8dGV4dCB4PSIxMiIgeT0iMTYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0ic2Fucy1zZXJpZiI+UUI8L3RleHQ+Cjwvc3ZnPg==&logoColor=white)
+![Qbox](https://img.shields.io/badge/Qbox-00D4AA?style=for-the-badge&logo=https://private-user-images.githubusercontent.com/22198949/309130493-bfc4ad22-d1ad-4b4f-8c61-a01d45d22969.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ2NzA2MzcsIm5iZiI6MTc2NDY3MDMzNywicGF0aCI6Ii8yMjE5ODk0OS8zMDkxMzA0OTMtYmZjNGFkMjItZDFhZC00YjRmLThjNjEtYTAxZDQ1ZDIyOTY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjAyVDEwMTIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YWZhMDUzZGQ5NDA4MDdkZjJlYmE4MGEzMmExYTdmMWMyOTlkM2I0NjgwNjc2MDUwOGRkOTY0ZGZhZTE1NDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6cgO_t4jC5ZnFjoUNhVO9Jxdm0bFIlOR-duXDt3t19M&logoColor=white)
+![OX Ecosystem](https://img.shields.io/badge/OX_Lib%20%26%20Inventory-2F855A?style=for-the-badge&logo=leaflet&logoColor=white)
+
+### Frameworks & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Development Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 
 
@@ -58,14 +91,14 @@ Hey there! 👋 I'm **Devexity**, a dedicated FiveM developer passionate about c
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devexity-fivem&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 Featured Projects
+## 🎯 Featured Projects (live & maintained)
 
 <div align="center">
 
-### 🌟 Original FiveM Scripts
-
 [![Devexity-Carry](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=Devexity-Carry&theme=tokyonight)](https://github.com/Devexity-fivem/Devexity-Carry)
+[![cb-unionheist](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=cb-unionheist&theme=tokyonight)](https://github.com/Devexity-fivem/cb-unionheist)
 [![Devexity-stripclub](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=Devexity-stripclub&theme=tokyonight)](https://github.com/Devexity-fivem/Devexity-stripclub)
+[![ox_fuel](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=ox_fuel&theme=tokyonight)](https://github.com/Devexity-fivem/ox_fuel)
 [![Devexity-Blips](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=Devexity-Blips&theme=tokyonight)](https://github.com/Devexity-fivem/Devexity-Blips)
 [![Devexity-repair](https://github-readme-stats.vercel.app/api/pin/?username=Devexity-fivem&repo=Devexity-repair&theme=tokyonight)](https://github.com/Devexity-fivem/Devexity-repair)
 
@@ -73,27 +106,28 @@ Hey there! 👋 I'm **Devexity**, a dedicated FiveM developer passionate about c
 
 ### 📋 Project Highlights
 
-| Project | Description | Language | Stars |
-|---------|-------------|----------|-------|
-| [**Devexity-Carry**](https://github.com/Devexity-fivem/Devexity-Carry) | Enhanced carry script with additional features for FiveM RP | Lua | ⭐ 1 |
-| [**Devexity-stripclub**](https://github.com/Devexity-fivem/Devexity-stripclub) | Strip club enhancement with "make it rain" feature for Gabz VU | Lua | ⭐ |
-| [**Devexity-Blips**](https://github.com/Devexity-fivem/Devexity-Blips) | Custom blips system for enhanced map navigation | Lua | ⭐ |
-| [**Devexity-repair**](https://github.com/Devexity-fivem/Devexity-repair) | Command-based vehicle repair system with configurable costs | Lua | ⭐ |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Devexity-Carry**](https://github.com/Devexity-fivem/Devexity-Carry) | Polished carry system with QoL and anti-griefing | Lua / QBCore |
+| [**cb-unionheist**](https://github.com/Devexity-fivem/cb-unionheist) | Union Depository heist experience for RP servers | Lua / Qbox |
+| [**ox_fuel**](https://github.com/Devexity-fivem/ox_fuel) | OX fuel tweaks for smooth ox_inventory usage | Lua / OX |
+| [**Devexity-stripclub**](https://github.com/Devexity-fivem/Devexity-stripclub) | Vanilla Unicorn overhaul with make-it-rain flow | Lua |
+| [**Devexity-Blips**](https://github.com/Devexity-fivem/Devexity-Blips) | Clean custom map blips setup | Lua |
+| [**Devexity-repair**](https://github.com/Devexity-fivem/Devexity-repair) | Configurable vehicle repair command | Lua |
+| [**qbx_drugs**](https://github.com/Devexity-fivem/qbx_drugs) | Qbox drug system balance and fixes | Lua / Qbox |
+| [**qbx_police**](https://github.com/Devexity-fivem/qbx_police) | Police framework refinements | Lua / Qbox |
 
-### 🔧 Framework Contributions
-- **QBCore/Qbox Integration**: Enhanced qbx_drugs, qbx_police, qbx_vehiclefailure, and other Qbox resources
-- **Framework Migration**: Converting and optimizing resources for modern QBCore/Qbox setups
-- **Community Forks**: Contributing to popular FiveM resources and tools
+### 🔧 Ecosystem Contributions
+- **QBCore / Qbox**: qbx_drugs, qbx_police, qbx_vehiclefailure, old-qbcore-framework
+- **OX stack**: ox_fuel, ox_inventory integrations and tweaks
+- **Utilities & tooling**: database-backup, qw-offsetfinder, tgiann-attachproptoplayereditor
+- **Learning & research**: Exercism challenges, build-your-own-x, project-based-learning
 
-### 📚 Current Focus & Learning
-
-- 🎮 **FiveM Scripting**: Building custom gameplay mechanics and RP systems
-- 🔧 **Framework Expertise**: Deepening knowledge in QBCore, ESX, and OX resources
-- 🧪 **Server Optimization**: Improving performance for large-scale RP servers
-- 📚 **Code Quality**: Learning through Exercism challenges and best practices
-- 🚀 **Innovation**: Creating unique features like strip club enhancements and repair systems
-
-|
+### 📚 Current Focus
+- 🎮 Shipping: heists, fuel/vehicle QoL, immersive interactions
+- 🔧 Framework depth: QBCore/Qbox + OX lib/inventory/fuel alignment
+- 🧪 Performance: profiling busy servers and tightening hot paths
+- 🚀 Experimenting: Kotlin-side game server experiments (OpenRune-Server, rsmod)
 
 ## 🏆 Achievements & Contributions
 
@@ -116,19 +150,19 @@ local developerProfile = {
     experience = "Building immersive RP experiences",
     specialties = {
         "Custom gameplay mechanics",
-        "Framework integrations (QBCore/ESX)",
+        "Framework integrations (QBCore/Qbox)",
         "Server performance optimization",
         "Community resource development"
     },
     currentGoals = {
-        "Creating innovative FiveM scripts",
-        "Contributing to open-source community",
-        "Mastering modern development practices",
-        "Building scalable server solutions"
+        "Ship polished heists and QoL packs",
+        "Contribute upstream to Qbox/OX stacks",
+        "Automate profiling for busy servers",
+        "Document and share best practices"
     },
     techStack = {
         "Lua (Primary)", "JavaScript", "TypeScript",
-        "MySQL", "Git", "FiveM Ecosystem"
+        "MySQL", "Git", "QBCore/Qbox + OX Ecosystem"
     }
 }
 
@@ -136,10 +170,10 @@ print("🚀 Constantly evolving, always building! 💻")
 ```
 
 ### 🎯 Repository Categories
-- **📁 Original Scripts**: 5+ custom FiveM resources
-- **🔄 Framework Forks**: QBCore, ESX, and community resources
-- **🛠️ Development Tools**: Scripts for server management and utilities
-- **📚 Learning Projects**: Exercism challenges and educational resources
+- **📁 Original Scripts**: Carry, strip club, blips, repair
+- **🔄 Framework Forks**: QBCore/Qbox, OX ecosystem resources
+- **🛠️ Development Tools**: Database backup, offset finder, vehicle failure tweaks
+- **📚 Learning Projects**: Exercism, build-your-own-x, project-based-learning
 
 ## 🤝 Let's Connect!
 
