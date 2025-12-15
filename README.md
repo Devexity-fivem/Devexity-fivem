@@ -33,27 +33,33 @@ Specialized in FiveM scripting and game server development with expertise in QBc
 - **Game Development**: GTA V, OldSchool RuneScape
 - **Development Tools**: Git, VS Code, Node.js
 
-## Key Projects
-
-### FiveM Resources
-- **[Devexity-Carry](https://github.com/Devexity-fivem/Devexity-Carry)** - Enhanced carry system with additional features
-- **[Devexity-Blips](https://github.com/Devexity-fivem/Devexity-Blips)** - Custom map blips for enhanced navigation
-- **[Devexity-repair](https://github.com/Devexity-fivem/Devexity-repair)** - Vehicle repair system with configurable costs
-- **[Devexity-stripclub](https://github.com/Devexity-fivem/Devexity-stripclub)** - Strip club enhancements with "Make It Rain" feature
-
-### Game Development
-- **[OpenRune-Server](https://github.com/Devexity-fivem/OpenRune-Server)** - Open-source RuneScape server implementation
-- **[rsmod](https://github.com/Devexity-fivem/rsmod)** - OldSchool RuneScape game-server emulator
-
-### Development Tools
-- **[rpf2fivem-repository](https://github.com/Devexity-fivem/rpf2fivem-repository)** - RPF to FiveM resource converter
-- **[database-backup](https://github.com/Devexity-fivem/database-backup)** - Automated database backup solution
-
 ## GitHub Analytics
 
+### 📈 Activity Overview
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devexity-fivem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Devexity-fivem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+### 🔥 Contribution Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devexity-fivem&theme=tokyonight&hide_border=true"/>
+</div>
+
+### 📊 Repository Insights
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity-fivem&theme=tokyonight&hide_border=true" alt="Wakatime stats" />
+</div>
+
+### 🏆 Achievement Metrics
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devexity-fivem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devexity-fivem&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ## Open Source Contributions
