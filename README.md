@@ -29,41 +29,7 @@ Hi! I'm Devexity, a passionate game developer specializing in FiveM scripting an
 - **Game Development**: GTA V, OldSchool RuneScape
 - **Tools**: Git, VS Code, Node.js
 
-## 🚀 Featured Projects
 
-### FiveM Scripts & Resources
-
-#### 🎭 Role-Playing & Gameplay
-- [**Devexity-Carry**](https://github.com/Devexity-fivem/Devexity-Carry) - Enhanced carry system with additional features
-- [**Devexity-Blips**](https://github.com/Devexity-fivem/Devexity-Blips) - Custom map blips for enhanced navigation
-- [**Devexity-repair**](https://github.com/Devexity-fivem/Devexity-repair) - Vehicle repair system with configurable costs
-
-#### 🎪 Entertainment & Businesses
-- [**Devexity-stripclub**](https://github.com/Devexity-fivem/Devexity-stripclub) - Strip club enhancements for Vanilla Unicorn with "Make It Rain" feature
-- [**tropic-dicegame**](https://github.com/Devexity-fivem/tropic-dicegame) - Casino dice game for gambling mechanics
-
-#### 🕵️‍♂️ Crime & Heists
-- [**cb-unionheist**](https://github.com/Devexity-fivem/cb-unionheist) - Union depository heist script for RP servers
-- [**qbx_drugs**](https://github.com/Devexity-fivem/qbx_drugs) - Qbox-based drug distribution and processing system
-
-#### 🚗 Vehicles & Transportation
-- [**mh-trailers**](https://github.com/Devexity-fivem/mh-trailers) - Advanced trailer system for vehicle transport
-- [**ox_fuel**](https://github.com/Devexity-fivem/ox_fuel) - Fuel management system with ox_inventory integration
-
-#### 🏥 Emergency & Services
-- [**qbx_police**](https://github.com/Devexity-fivem/qbx_police) - Police department management system
-- [**doj-forms**](https://github.com/Devexity-fivem/doj-forms) - Department of Justice forms collection
-
-### Game Development & Tools
-
-#### 🎮 Game Servers & Emulators
-- [**OpenRune-Server**](https://github.com/Devexity-fivem/OpenRune-Server) - Open-source RuneScape server implementation
-- [**rsmod**](https://github.com/Devexity-fivem/rsmod) - OldSchool RuneScape game-server emulator
-
-#### 🔧 Development Tools
-- [**rpf2fivem-repository**](https://github.com/Devexity-fivem/rpf2fivem-repository) - Tool for converting RPF files to FiveM resource folders
-- [**database-backup**](https://github.com/Devexity-fivem/database-backup) - Automated database backup solution
-- [**GTA-V-Decompiled-Scripts**](https://github.com/Devexity-fivem/GTA-V-Decompiled-Scripts) - Decompiled GTA V game scripts with native tables
 
 ## 📊 GitHub Stats
 
