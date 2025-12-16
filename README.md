@@ -49,7 +49,7 @@ Specialized in FiveM scripting and game server development with expertise in QBc
 ### 📊 Repository Insights
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity-fivem&theme=tokyonight&hide_border=true" alt="Wakatime stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity&theme=tokyonight&hide_border=true" alt="Wakatime stats" />
 </div>
 
 ### 🏆 Achievement Metrics
