@@ -41,15 +41,12 @@ Specialized in FiveM scripting and game server development with expertise in QBc
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-### ⏱️ Coding Activity (WakaTime)
+### ⏱️ Coding Activity 
 <div align="center">
   <!-- Method 1: GitHub Readme Stats API - Using WakaTime username: Devexity -->
   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
-  <!-- Method 2: Alternative WakaTime API (if Method 1 doesn't work) -->
-  <img height="200em" src="https://wakatime.com/share/@Devexity/your-embed-id.svg" alt="WakaTime Weekly Stats" />
-</div>
 
-### 📅 Weekly Coding Breakdown (WakaTime)
+### 📅 Weekly Coding Breakdown 
 <div align="center">
   <!-- Get embed URLs from: https://wakatime.com/share -->
   <!-- Visit https://wakatime.com/share and generate embed URLs for your profile -->
@@ -67,15 +64,6 @@ Specialized in FiveM scripting and game server development with expertise in QBc
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&langs_count=10&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide_border=true"/>
 </div>
 
-### 🔥 Contribution Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devexity-fivem&theme=tokyonight&hide_border=true"/>
-</div>
-
-### 🏆 Achievement Metrics
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devexity-fivem&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
 
 ### 📈 Contribution Graph
 <div align="center">
