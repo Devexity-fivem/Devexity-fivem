@@ -54,9 +54,9 @@ Specialized in FiveM scripting and game server development with expertise in QBc
   <!-- Get embed URLs from: https://wakatime.com/share -->
   <!-- Visit https://wakatime.com/share and generate embed URLs for your profile -->
   <!-- WakaTime Language Breakdown (7 days) -->
-  <img src="https://wakatime.com/share/@Devexity/languages.svg" alt="WakaTime Languages" />
+  <img src="https://wakatime.com/share/@Devexity/31e3b633-adf1-41a1-a11f-2d8a149859fa.svg" alt="WakaTime Languages" />
   <!-- WakaTime Editor Usage -->
-  <img src="https://wakatime.com/share/@Devexity/editors.svg" alt="WakaTime Editors" />
+  <img src="https://wakatime.com/share/@Devexity/c6c6dfc3-1261-49a0-bbc4-aef35646ebec.svg" alt="WakaTime Editors" />
 </div>
 
 ### 📊 Repository Insights
