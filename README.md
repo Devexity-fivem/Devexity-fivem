@@ -29,7 +29,7 @@ Specialized in FiveM scripting and game server development with expertise in QBc
 </p>
 
 ### Frameworks & Platforms
-- **FiveM**: QBcore, Qbox, ESX
+- **FiveM**: QBcore, Qbox
 - **Game Development**: GTA V, OldSchool RuneScape
 - **Development Tools**: Git, VS Code, Node.js
 
