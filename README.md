@@ -43,10 +43,10 @@ Specialized in FiveM scripting and game server development with expertise in QBc
 
 ### ⏱️ Coding Activity (WakaTime)
 <div align="center">
-  <!-- Method 1: GitHub Readme Stats API - Make sure your WakaTime username matches GitHub username -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity-fivem&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <!-- Method 1: GitHub Readme Stats API - Using WakaTime username: Devexity -->
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
   <!-- Method 2: Alternative WakaTime API (if Method 1 doesn't work) -->
-  <img height="200em" src="https://wakatime.com/share/@Devexity-fivem/your-embed-id.svg" alt="WakaTime Weekly Stats" />
+  <img height="200em" src="https://wakatime.com/share/@Devexity/your-embed-id.svg" alt="WakaTime Weekly Stats" />
 </div>
 
 ### 📅 Weekly Coding Breakdown (WakaTime)
@@ -54,9 +54,9 @@ Specialized in FiveM scripting and game server development with expertise in QBc
   <!-- Get embed URLs from: https://wakatime.com/share -->
   <!-- Visit https://wakatime.com/share and generate embed URLs for your profile -->
   <!-- WakaTime Language Breakdown (7 days) -->
-  <img src="https://wakatime.com/share/@Devexity-fivem/languages.svg" alt="WakaTime Languages" />
+  <img src="https://wakatime.com/share/@Devexity/languages.svg" alt="WakaTime Languages" />
   <!-- WakaTime Editor Usage -->
-  <img src="https://wakatime.com/share/@Devexity-fivem/editors.svg" alt="WakaTime Editors" />
+  <img src="https://wakatime.com/share/@Devexity/editors.svg" alt="WakaTime Editors" />
 </div>
 
 ### 📊 Repository Insights
