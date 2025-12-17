@@ -44,7 +44,7 @@ Specialized in FiveM scripting and game server development with expertise in QBc
 ### ⏱️ Coding Activity 
 <div align="center">
   <!-- Method 1: GitHub Readme Stats API - Using WakaTime username: Devexity -->
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devexity&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img height="200em" src="https://wakatime.com/share/@Devexity/e99f011d-2f59-4a3c-9b5b-2389abb8a8d0.png" alt="WakaTime Stats" />
 
 
 
