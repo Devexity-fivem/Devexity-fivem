@@ -33,18 +33,17 @@ Specialized in FiveM scripting and game server development with expertise in QBc
 - **Game Development**: GTA V, OldSchool RuneScape
 - **Development Tools**: Git, VS Code, Node.js
 
-## GitHub Analytics
-
-### 📈 Activity Overview
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Devexity-fivem&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
 ### ⏱️ Coding Activity 
 <div align="center">
   <!-- Method 1: GitHub Readme Stats API - Using WakaTime username: Devexity -->
   <img height="200em" src="https://wakatime.com/share/@Devexity/64fcbb25-4990-4192-92d5-798ae5c56ef2.png" alt="WakaTime Stats" />
+
+### 📈 Activity Overview
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devexity-fivem&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+
 
 
 
